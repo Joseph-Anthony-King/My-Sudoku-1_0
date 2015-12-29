@@ -70,6 +70,7 @@
     <Compile Include="SudokuExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="GNU GPL.txt" />
     <Content Include="Images\MySudoku.ico" />
     <Content Include="MySudoku.ico" />
   </ItemGroup>
