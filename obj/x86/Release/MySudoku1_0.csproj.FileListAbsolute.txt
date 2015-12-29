@@ -1,0 +1,4 @@
+C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 1.0\MySudoku1_0\bin\Release\My Sudoku 1.0.exe
+C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 1.0\MySudoku1_0\bin\Release\My Sudoku 1.0.pdb
+C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 1.0\MySudoku1_0\obj\x86\Release\My Sudoku 1.0.exe
+C:\Users\Josep\Documents\Visual Studio 2010\Projects\My Sudoku 1.0\MySudoku1_0\obj\x86\Release\My Sudoku 1.0.pdb
