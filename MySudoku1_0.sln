@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySudoku1_0", "MySudoku1_0.csproj", "{382C89FD-F440-409B-9217-0839C97FBCFD}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MySudoku1_0Installer", "..\MySudoku1_0Installer\MySudoku1_0Installer.vdproj", "{904E118C-4235-4035-B7B8-41532A3CC858}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MySudoku1_0Installer", "..\MySudoku1_0Installer\MySudoku1_0Installer.vdproj", "{E609B0AD-F61A-4267-9CEC-F2CF586DCEEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{382C89FD-F440-409B-9217-0839C97FBCFD}.Debug|x86.Build.0 = Debug|x86
 		{382C89FD-F440-409B-9217-0839C97FBCFD}.Release|x86.ActiveCfg = Release|x86
 		{382C89FD-F440-409B-9217-0839C97FBCFD}.Release|x86.Build.0 = Release|x86
-		{904E118C-4235-4035-B7B8-41532A3CC858}.Debug|x86.ActiveCfg = Debug
-		{904E118C-4235-4035-B7B8-41532A3CC858}.Debug|x86.Build.0 = Debug
-		{904E118C-4235-4035-B7B8-41532A3CC858}.Release|x86.ActiveCfg = Release
-		{904E118C-4235-4035-B7B8-41532A3CC858}.Release|x86.Build.0 = Release
+		{E609B0AD-F61A-4267-9CEC-F2CF586DCEEF}.Debug|x86.ActiveCfg = Debug
+		{E609B0AD-F61A-4267-9CEC-F2CF586DCEEF}.Debug|x86.Build.0 = Debug
+		{E609B0AD-F61A-4267-9CEC-F2CF586DCEEF}.Release|x86.ActiveCfg = Release
+		{E609B0AD-F61A-4267-9CEC-F2CF586DCEEF}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
